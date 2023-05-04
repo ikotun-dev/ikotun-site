@@ -9,6 +9,8 @@
     </div>
   </template>
 
+
+<!-- script section for javascript -->
 <script>
 
 </script>
