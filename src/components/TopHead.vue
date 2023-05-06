@@ -1,6 +1,6 @@
 <template>
     <div class="bg-zinc-900 w-full  h-32 flex justify-center">
-        <div class="mt-3 flex justify-between">
+        <div class="mt-3 flex">
             <i class="fab fa-twitter hover:text-zinc-500 text-white"></i>
             <i class="fab fa-github ml-4 mr-4 hover:text-zinc-500 text-white"></i>
             <i class="fab fa-linkedin  hover:text-zinc-500 text-white"></i>
