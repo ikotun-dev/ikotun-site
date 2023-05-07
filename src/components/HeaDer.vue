@@ -4,8 +4,7 @@
           <div class="flex mt-5">
           <i class="fas fa-map-marker text-gray mr-4"></i><h3 class=" text-gray-600 text-xs">Lagos, Nigeria</h3>
           </div>
-          <hr/>
-          <hr/>
+          
     </div>
   </template>
 
