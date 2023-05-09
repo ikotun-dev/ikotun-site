@@ -1,4 +1,5 @@
 <template>
+    <!-- div for header class  -->
     <div class="pt-10 px-10  pb-5 bg-black">
           <img class="w-32 h-32 rounded-full" :src="require('../assets/images/832.jpg')" alt="my image">
           <div class="flex mt-5">
