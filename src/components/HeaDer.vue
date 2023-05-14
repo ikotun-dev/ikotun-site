@@ -12,7 +12,7 @@
         
     </div>
   </template>
-<!-- Just to geg commit omo--....sure me i go soon lose streaks ->
+<!-- Just to geg commit omo--....sure me  ->
 
 <!-- script section for javascript -->
 <script>
