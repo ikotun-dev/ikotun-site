@@ -8,11 +8,11 @@
 
           <div class="w-50 bg-black border border-t-amber-950 border-b-amber-950 border-r-black border-l-black  h-8  mt-5 mx-0 ">
             <h2 class="font-mono mt-2 text-xs text-amber-800">  - MENU</h2>
-          </div>
+          </div>,
         
     </div>
   </template>
-<!-- Just to geg commit omo--....sure->
+<!-- Just to geg commit omo--....sure =- ->
 
 <!-- script section for javascript -->
 <script>
