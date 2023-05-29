@@ -14,4 +14,5 @@ With my diverse skill set, adaptability, and passion for growth, I am confident 
     .wave-emoji {
         font-family: "Segoe UI Emoji", "NotoColorEmoji", "Twemoji";
     }
+    
 </style>
