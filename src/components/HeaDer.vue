@@ -7,7 +7,7 @@
           </div>
 
           <div class="w-50 bg-black border border-t-gray-400 border-b-gray-400 border-r-black border-l-black  h-8  mt-5 mx-0 ">
-            <h2 class="font-extrabold mt-1 mb-1 text-sm text-white .wave-emoji"> &rightarrow;  RESUME </h2>
+            <h2><a class="font-extrabold mt-1 mb-1 text-sm text-white .wave-emoji" href="https://www.dropbox.com/s/0nsez0uijvpkjls/ikotunCVpdf.pdf?dl=0"  download> &rightarrow;  RESUME </a></h2>
           </div>
     </div>
   </template>
