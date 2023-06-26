@@ -3,7 +3,7 @@
     <h3 class="font-extrabold text-xl text-gray-100 .wave-emoji ml-12 py-3"> Projects &#128193;</h3>
     </div>
     <div class="bg-black">
-        <h3 class="text-gray-400 text-sm ml-12">I build stuffs I want to use , as a software engineer, I spend my free time immersed in learning new technologies and honing my skills, constantly exploring innovative ways to build and create remarkable solutions. It's a fulfilling journey where passion meets knowledge, and I thrive in the realm of endless possibilities.<br/><h2 class="ml-12 mt-3 text-gray-300">&#128526; To mention a few &rightarrow;</h2></h3>
+        <h3 class="text-gray-400 text-sm ml-12"><span class="text-bg-blue">I build stuffs I want to use</span> , as a software engineer, I spend my free time immersed in learning new technologies and honing my skills, constantly exploring innovative ways to build and create remarkable solutions. It's a fulfilling journey where passion meets knowledge, and <span class="text-blue-400">thrive in the realm of endless possibilities.</span><br/><h2 class="text-xl ml-12 mt-3 text-gray-300">&#128526; To mention a few &rightarrow;</h2></h3>
     </div>
     <div class=" px-5 py-10 bg-black pl-12 sm:flex-col lg:flex-row lg:flex-wrap lg:flex">
     <a  href="https://ikotun-dev.github.io/linkify-ui/">
