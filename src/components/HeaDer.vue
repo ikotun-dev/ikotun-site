@@ -1,6 +1,6 @@
 <template>
     <!-- div for header class  -->
-    <div class="pt-10 px-10  pb-5 bg-black">
+    <div class="pt-20 px-10  pb-5 bg-black">
           <img class="w-32 h-32 rounded-full " :src="require('../assets/images/832.jpg')" alt="my image">
           <div class="flex mt-5">
           <i class="fas fa-location-arrow text-sm text-gray-300 mr-2 ml-2"></i><h3 class="text-mono text-white text-xs"> Abuja, Nigeria</h3>

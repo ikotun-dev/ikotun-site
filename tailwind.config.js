@@ -33,7 +33,7 @@ module.exports = {
     '110' : '73rem'
   }, 
   screens: {
-    'sm': '390px',  // Target iPhone 5 screen size and smaller
+    'sm': '300px',  // Target iPhone 5 screen size and smaller
     'md': '375px',  // Target iPhone 6/7/8 screen size and smaller
     'lg': '768px',  // Target iPhone 6/7/8 Plus screen size and smaller
   },
