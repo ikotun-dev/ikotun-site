@@ -4,7 +4,7 @@
   <MiddleText></MiddleText>
   <ToolBox></ToolBox>
   <ProjectGig></ProjectGig>
-  
+  <BaseFooter></BaseFooter>
 </template>
 
 <script>
@@ -13,7 +13,7 @@ import HeaDer from './components/HeaDer'
 import MiddleText from './components/MiddleText'
 import ToolBox from './components/ToolBox.vue'
 import ProjectGig from './components/ProjectGig.vue'
-
+import BaseFooter from './components/BaseFooter.vue'
 export default{
   name: 'App',
   components: {
@@ -22,6 +22,7 @@ export default{
     MiddleText,
     ToolBox,
     ProjectGig,
+    BaseFooter,
   }
 }
 
