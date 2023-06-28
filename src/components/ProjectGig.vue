@@ -16,7 +16,7 @@
 
     <div class=" h-96 sm:ml-2 border-b border-l border-r border-gray-800 rounded-lg w-100 sm:w-72 pb-4 sm:mt-6 lg:mt-0 lg:ml-6">
         <img class="h-72 sm:h-48  rounded-t-9xl" :src="require('../assets/images/gigflut_img.png')"/>
-        <h3 class=" sm:text-sm  sm:ml-2 text-bold font-pop font-bold lg:ml-8 mt-4 text-white"> ( Unreleased )  GigFlut - Job Board <br/><br/>Technologies<br/>
+        <h3 class=" sm:text-sm  sm:ml-2 text-bold font-pop font-bold lg:ml-8 mt-4 text-white"> ( Unreleased   )  GigFlut - Job Board <br/><br/>Technologies<br/>
         <h2 class="text-sm">Frontend &rightarrow;  vueJs <br> Backend &rightarrow; django (python) </h2></h3>
     </div>
 
